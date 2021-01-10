@@ -2,6 +2,8 @@
 
 ## Description
 
+[Deployed Application - https://warm-inlet-69729.herokuapp.com](https://warm-inlet-69729.herokuapp.com/)
+
 Shop-Shop is a MERN stack web app that utilizes Redux for keeping track of a global state. The web app allows you to:
 
 - Filter items by category
